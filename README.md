@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satyaa232323
-- 👀 I’m interested in Laravek
+- 👀 I’m interested in Laravel 
 - 🌱 I’m currently learning Next JS
 - ⚡ Fun fact: I like watching films.
 
