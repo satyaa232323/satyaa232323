@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **attalasatya@gmail.com**
 
-- ⚡ Fun fact **I like wathcing film and i play minecraft too.**
+- ⚡ Fun fact **I like watching film and i play minecraft too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
